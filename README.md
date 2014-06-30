@@ -1,4 +1,4 @@
 puppet
 ======
 
-puppet modules
+common puppet modules
