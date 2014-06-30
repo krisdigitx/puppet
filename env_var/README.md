@@ -8,7 +8,7 @@ Set parameter type as "YAML" in foreman then override it by using the environmen
 example:
 
 env_var:
-  *http_proxy: http://10.10.10.10:3128
+  http_proxy: http://10.10.10.10:3128
   ftp_proxy: http://10.10.10.10:3128
   https_proxy: http://10.10.10.10:3128
   term: vt100
